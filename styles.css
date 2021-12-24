@@ -1,0 +1,44 @@
+.heading{
+    background-color: #f5634c;
+    width: 102%;
+    height: 25  0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 60%;
+    text-align: center;
+}
+
+.heading h5{
+    color: #235e6f;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 45px;
+    margin: 0px auto 0px auto; 
+}
+
+.banner{
+    width: 100%;
+}
+
+.santa-sleigh{
+    margin: 25% 20px 0 auto;
+    height: 100px;
+    width: 120px;
+}
+
+body{
+    background-color: #34a65f;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+}
+
+.main{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 30px 0px auto;
+    color: salmon;
+}
